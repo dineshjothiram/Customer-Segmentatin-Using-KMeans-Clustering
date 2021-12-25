@@ -1,4 +1,4 @@
-# Customer-Segmentatin-Using-KMeans-Clustering
+# Customer-Segmentation-Using-KMeans-Clustering
 
 1. Collecting Customer Data
 
